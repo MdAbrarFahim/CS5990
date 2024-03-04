@@ -1,3 +1,11 @@
+# -------------------------------------------------------------------------
+# AUTHOR: Md Abrar Fahim
+# FILENAME: roc_curve.py
+# SPECIFICATION: description of the program
+# FOR: CS 5990 (Advanced Data Mining) - Assignment #2
+# TIME SPENT: 3 days
+# -----------------------------------------------------------*/
+
 #importing some Python libraries
 from sklearn import tree
 import matplotlib.pyplot as plt
